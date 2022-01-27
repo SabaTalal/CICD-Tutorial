@@ -1,0 +1,14 @@
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/model/User.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/model/Post.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/mappers/SocialMapper.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/service/UserServiceImpl.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/exception/BusinessException.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/repositories/UserRepository.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/dto/PostDTO.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/controllers/SocialController.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/repositories/PostRepository.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/service/PostServiceImpl.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/exception/SocialControlAdvise.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/dto/UserDTO.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/config/SwaggerConfig.java
+/Users/user/Desktop/CICD-Tutorial/src/main/java/com/hawaya/socialapp/SocialappApplication.java

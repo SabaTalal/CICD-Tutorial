@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hawaya.socialapp.SocialappApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.639 s - in com.hawaya.socialapp.SocialappApplicationTests
